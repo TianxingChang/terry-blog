@@ -8,4 +8,4 @@
  * 
  * Copyright (c) 2024 by Terry Chang, All Rights Reserved. 
 -->
-My blog site. [ Terry Studio]
+My blog site. [ Terry Studio ]

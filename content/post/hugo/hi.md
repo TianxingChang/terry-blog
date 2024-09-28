@@ -15,3 +15,5 @@ Hugo 是一个静态网站生成器，它可以帮助我们快速地创建一个
 
 ### 部署
 [一键在vercel部署](https://vercel.com/guides/deploying-hugo-with-vercel)
+
+怎么更新呢？

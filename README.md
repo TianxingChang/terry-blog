@@ -1,3 +1,11 @@
-This is an example site used for solely for testing purposes. **It is not meant to be used as a template for your site**. 
-
-To create a new site, please use the starter template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter/)
+<!--
+ * @Author: Matroid_Walker adimensioner@gmail.com
+ * @Date: 2024-09-28 10:20:35
+ * @LastEditors: Matroid_Walker adimensioner@gmail.com
+ * @LastEditTime: 2024-09-28 12:38:33
+ * @FilePath: /blogs/terry_blog/README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by Terry Chang, All Rights Reserved. 
+-->
+My blog site. [ Terry Studio]
